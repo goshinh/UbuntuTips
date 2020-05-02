@@ -1,6 +1,9 @@
 # UnbuntuTips
 take notes for Ubuntu
 
+## Desktop environment
+- [Regolith](https://regolith-linux.org/)
+
 ## Teminal
 - new teminal window and tag
 new windows : ctrl + alt + T
