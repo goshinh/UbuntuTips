@@ -49,5 +49,6 @@ sudo apt install fcitx
 im-config
 ```
 4. Config Fcitx
+
 add SogouPinyin
 
