@@ -29,9 +29,25 @@ then reboot your PC.
 
 ### Screenrecord
 - [OBS Studio](https://obsproject.com/)
+- [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/)
 
 ### Keystroke visualizer
 - [Screenkey](https://www.thregr.org/~wavexx/software/screenkey/)
 
 ### Reference
 - [工具箱-屏幕截图 (Toolkit-Screenshot)](https://zhuanlan.zhihu.com/p/76965810)
+
+## InputMethod-SogouPinying
+1. Install Fcitx
+```
+sudo apt install fcitx
+```
+2. Install [Sogoupingyin](https://pinyin.sogou.com/linux/?r=pinyin)
+
+3. Switch to Fcitx
+```
+im-config
+```
+4. Config Fcitx
+add SogouPinyin
+
