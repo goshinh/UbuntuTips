@@ -41,9 +41,10 @@ SimpleScreenRecorder is a Linux program that I've created to record programs and
 Simple animated GIF screen recorder with an easy to use interface
 
 ### Keystroke visualizer
-- [Screenkey](https://www.thregr.org/~wavexx/software/screenkey/)
 
-A screencast tool to display your keys, inspired by [Screenflick](https://www.araelium.com/screenflick-mac-screen-recorder).
+- [keymon](https://howtoinstall.co/en/ubuntu/xenial/keymon)
+
+![](http://dl.iteye.com/upload/attachment/596149/83f8400f-a196-3db1-a0eb-3daba7556b17.png)
 
 ### Reference
 - [工具箱-屏幕截图 (Toolkit-Screenshot)](https://zhuanlan.zhihu.com/p/76965810)
