@@ -43,6 +43,8 @@ Simple animated GIF screen recorder with an easy to use interface
 ### Keystroke visualizer
 - [Screenkey](https://www.thregr.org/~wavexx/software/screenkey/)
 
+A screencast tool to display your keys, inspired by [Screenflick](https://www.araelium.com/screenflick-mac-screen-recorder).
+
 ### Reference
 - [工具箱-屏幕截图 (Toolkit-Screenshot)](https://zhuanlan.zhihu.com/p/76965810)
 
