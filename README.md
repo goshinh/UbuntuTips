@@ -22,3 +22,16 @@ fi
 
 then reboot your PC.
 
+## Toolkit
+
+### Screenshot
+- ![Flameshot](https://github.com/lupoDharkael/flameshot)
+
+### Screenrecord
+- ![OBS Studio](https://obsproject.com/)
+
+### Keystroke visualizer
+-![Screenkey](https://www.thregr.org/~wavexx/software/screenkey/)
+
+### Reference
+- [工具箱-屏幕截图 (Toolkit-Screenshot)](https://zhuanlan.zhihu.com/p/76965810)
