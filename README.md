@@ -29,7 +29,16 @@ then reboot your PC.
 
 ### Screenrecord
 - [OBS Studio](https://obsproject.com/)
+
+Free and open source software for video recording and live streaming.
+
 - [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/)
+
+SimpleScreenRecorder is a Linux program that I've created to record programs and games...
+
+- [Peek](https://github.com/phw/peek)
+
+Simple animated GIF screen recorder with an easy to use interface
 
 ### Keystroke visualizer
 - [Screenkey](https://www.thregr.org/~wavexx/software/screenkey/)
