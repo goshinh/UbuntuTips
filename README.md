@@ -22,6 +22,13 @@ fi
 
 then reboot your PC.
 
+- Find out the size of open terminal
+```
+$xwininfo
+```
+
+
+
 ## Toolkit
 
 ### Screenshot
