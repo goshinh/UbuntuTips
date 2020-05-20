@@ -56,6 +56,7 @@ Simple animated GIF screen recorder with an easy to use interface
 ### Reference
 - [工具箱-屏幕截图 (Toolkit-Screenshot)](https://zhuanlan.zhihu.com/p/76965810)
 - [Best GIF Recorder Tools for Linux](https://itsfoss.com/best-gif-recorder-linux/)
+- [9 Best Screen Recorders For Linux](https://itsfoss.com/best-linux-screen-recorders/)
 
 ## InputMethod-SogouPinying
 1. Install Fcitx
